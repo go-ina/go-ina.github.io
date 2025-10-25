@@ -7,10 +7,7 @@ title: Content
 ## Introduction
 
 My name is Ina Goettling from Germany. I graduated at Goettingen University with a Dual Subject Bachelor in General Linguistics and English Studies with strong focus on phonetics. After desveral other stops, I have decided to begin my Master in Helsinki in Language Technology as aim to combine my previously acquired knowledge to furhter the development in speech recognition for a more inclusice society.
-
-
 ## Find me
-
 [GitHub](https://github.com/go-ina)
 
 
@@ -30,7 +27,7 @@ My email address: ina.gottling@helsinki.fi.
 
 ## Studies
 
-<img src="{{ '/assets/images/helsinki.png' | relative_url }}" width=25> [University of Helsinki](https://www.helsinki.fi/en), 2025- Language Technology
+<img src="{{ '/assets/images/helsinki.png' | relative_url }}" width=25> [University of Helsinki](https://www.helsinki.fi/en), 2025-
 
 <img src="{{ '/assets/images/goettingen.png' | relative_url }}" width=25> [Georg-August-University Goettingen](https://www.uni-goettingen.de/en/1.html), 2021-2025 General Linguistics, English: Language, Literature and Culture
 
@@ -41,12 +38,18 @@ My email address: ina.gottling@helsinki.fi.
 <img src="{{ '/assets/images/goettingen.png' | relative_url }}" width=25> [Georg-August-University Goettingen](https://www.uni-goettingen.de/en/1.html), 2013-2021 Mathematics, English Studies
 
 
-## Projects
+## Languages
 
-[Command Line Tools for Linguists](https://github.com/go-ina/cmdline-course)
+German
 
-## Misc
+English
 
-nothing compares to reading a good book on a rainy day with a hot coffee in one hand.
+Korean
 
-currently reading: [Freedom - by Angela Merkel](https://en.wikipedia.org/wiki/Freedom_(Merkel_book))
+French
+
+Spanish
+
+## Misc. 
+
+[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
