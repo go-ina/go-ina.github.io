@@ -1,6 +1,6 @@
 layout: default
 title: Command-line Course
-permalink: /cmdline-course/
+permalink:[cmdline-course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221)
 
 ---
 
