@@ -1,7 +1,6 @@
 layout: default
 title: Command-line Course
-permalink:[cmdline-course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221)
-
+permalink: /cmdline_course.html
 ---
 
 # Command-Line Course
@@ -101,4 +100,4 @@ Below is a consolidated list of the most important UNIX commands covered through
 `git`
 
 
-assets/images/helsinki.png
+<img src="{{ '/assets/images/programming.jpg' | relative_url }}" width=100>
