@@ -1,3 +1,4 @@
+---
 layout: default
 title: Command-line Course
 permalink: /cmdline_course.html
@@ -82,7 +83,7 @@ GitHub, as the hosting platform for Git repositories, enabled us to share our wo
 ---
 
 ## Summary of Core Commands
-Below is a consolidated list of the most important UNIX commands covered throughout the course:
+
 
 ### File System and Navigation
 `cd`, `ls`, `pwd`, `cp`, `mv`, `rm`, `mkdir`, `touch`, `cat`, `tail`, `sudo`
@@ -100,4 +101,4 @@ Below is a consolidated list of the most important UNIX commands covered through
 `git`
 
 
-<img src="{{ '/assets/images/programming.jpg' | relative_url }}" width=100>
+<img src="{{ '/assets/images/programming.jpg' | relative_url }}" width=800>
