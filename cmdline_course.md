@@ -6,10 +6,30 @@ permalink: /cmdline-course/
 
 ## What I learned in the Command-line Course
 
-- Navigating the filesystem (`cd`, `ls`, `pwd`)
-- File operations (`cp`, `mv`, `rm`, `mkdir`)
-- Searching with `grep`, `find`
-- Version control with `git`
+## 1) Working with the UNIX File System
+- Understanding the UNIX file system structure
+- Navigating the filesystem with `cd`, `ls`, `pwd`
+- Performing file operations with `cp`, `mv`, `rm`, `mkdir`
+- Creating and viewing files using `touch`, `cat`, `tail`
+- Running commands with administrative rights using `sudo`
 
-## Find large files
-du -ah . | sort -h | tail -20
+## 2) Text Editing
+- Editing files with `nano` and `emacs`
+- Displaying or printing text with `echo`
+
+## 3) Searching and Filtering Data
+- Searching for patterns with `grep`
+- Finding files and directories with `find`
+
+## 4) Text Processing and Data Manipulation
+- Extracting columns or fields with `cut`
+- Replacing or modifying text with `sed`
+- Translating or deleting characters with `tr`
+- Sorting output alphabetically or numerically with `sort`
+
+## 5) Downloading and Managing Data
+- Downloading files from the web using `wget`
+
+## 6) Version Control
+- Using `git` for version control
+- Cloning repositories, committing changes, and pushing to GitHub 
