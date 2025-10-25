@@ -13,6 +13,16 @@ Over several weeks, you’ll progress from basic navigation and file operations 
 
 ---
 
+| Week            | Focus                       | Key Outcome                   |
+| --------------- | --------------------------- | ----------------------------- |
+| 1               | UNIX basics & permissions   | Confident navigation & safety |
+| 2               | Text processing & pipelines | Reproducible transformations  |
+| 3               | Scripting & configuration   | Automate repeatable tasks     |
+| 4               | SSH, Git, Jekyll/Pages      | Publish a versioned website   |
+
+---
+
+
 ## Week 1: Setting Up the Environment and UNIX Basics
 This week, we began by installing our command-line environments, which are the foundation for everything we will be doing throughout the course. You can use your personal computer for this — instructions were provided for Windows, macOS, and Linux.
 
@@ -25,6 +35,10 @@ Once the environment was set up, we explored the basic UNIX commands that let us
 
 We also learned about the structure of the UNIX file system, including standard system directories and file permissions that protect user privacy.  
 At the end of the module, a short quiz helped reinforce these concepts and provided hands-on practice with the most common UNIX commands.
+## Example: Navigating the File System
+pw
+ls -l
+cd Documents
 
 ---
 
@@ -85,3 +99,6 @@ Below is a consolidated list of the most important UNIX commands covered through
 
 ### Version Control
 `git`
+
+
+assets/images/helsinki.png
