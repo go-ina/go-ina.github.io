@@ -49,7 +49,7 @@ My email address: ina.gottling@helsinki.fi.
 
 nothing compares to reading a good book on a rainy day with a hot coffee in one hand.
 
-currently reading: [Freedom - by Angela Merkel](https://en.wikipedia.org/wiki/Freedom_(Merkel_book))
+currently reading: [Freedom - by Angela Merkel](https://en.wikipedia.org/wiki/Freedom_(Merkel_book)) in the orginal language [Freiheit - Angela Merkel](https://de.wikipedia.org/wiki/Freiheit:_Erinnerungen_1954%E2%80%932021)
 
 ## More About Me
 
