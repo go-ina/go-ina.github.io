@@ -74,23 +74,23 @@ Key commands introduced this week include:
 We also learned how to combine these commands into **pipelines**, chaining them together to perform complex tasks efficiently without creating temporary files. These skills are especially useful for linguistic and text analysis, where automation and precision are essential.
 
 
-- **`grep`** – searches for specific patterns or words inside files
+- **`grep`** – searches for specific patterns or words inside files  
 	(e.g. `grep "error" logfile.txt` finds all lines containing the word *error*)
-- **`find`** – searches for files and directories based on name, type, or other criteria
+- **`find`** – searches for files and directories based on name, type, or other criteria  
 	(e.g. `find . -name "*.txt"` lists all `.txt` files in the current directory and subfolders)
-- **`cut`** – extracts specific columns or fields from each line of text
+- **`cut`** – extracts specific columns or fields from each line of text  
 	(e.g. `cut -d',' -f2 data.csv` extracts the second column from a comma-separated file)
-- **`sed`** – stream editor for finding, replacing, or transforming text
+- **`sed`** – stream editor for finding, replacing, or transforming text  
 	(e.g. `sed 's/foo/bar/g' file.txt` replaces all occurrences of “foo” with “bar”)
-- **`tr`** – translates or deletes characters in text streams
+- **`tr`** – translates or deletes characters in text streams  
 	(e.g. `tr '[:lower:]' '[:upper:]' < names.txt` converts all letters to uppercase)
-- **`sort`** – sorts lines of text alphabetically or numerically
-	(e.g. `sort -n scores.txt` sorts numbers in ascending order)
-- **`freqlist`** – a custom script used to generate word frequency lists from text files
+- **`sort`** – sorts lines of text alphabetically or numerically  
+	(e.g. `sort -n scores.txt` sorts numbers in ascending order)  
+- **`freqlist`** – a custom script used to generate word frequency lists from text files  
 	(e.g `bin/freqlist.sh file.txt` outputs each unique word and how often it appears in 'file.txt')
 
 ## Example pipeline:
-```bash
+
 grep "error" logfile.txt | cut -d' ' -f5 | sort | uniq -c | sort -n
 
 
@@ -112,17 +112,20 @@ This week also introduced simple package installation and configuration manageme
 ### Common commands and concepts
 
 - **Shell script** – a file containing a series of commands that can be run together.  
-  Example: `myscript.sh` automates a process instead of running each command manually.
+	(e.g. `myscript.sh` automates a process instead of running each command manually)  
 - **`echo`** – prints text or variable values to the terminal (e.g., `echo $HOME` shows your home directory).  
-- **`export`** – defines or modifies environment variables so they’re available to all processes (e.g., `export PATH="$PATH:/my/bin"`).  
+- **`export`** – defines or modifies environment variables so they’re available to all processes  
+	(e.g., `export PATH="$PATH:/my/bin"`)  
 - **Environment variable** – a named value that influences system behavior (like `PATH`, `HOME`, `USER`).  
-- **Configuration files** – special scripts that run automatically when you open a shell (e.g., `.bashrc`, `.profile`).  
+- **Configuration files** – special scripts that run automatically when you open a shell  
+	(e.g., `.bashrc`, `.profile`)  
 - **`chmod +x`** – gives a script permission to be executed.  
 - **`#!/bin/bash`** – the “shebang” line at the top of a script that tells the system which interpreter to use.  
 
 ## Example shell script:
-```bash
+
 #!/bin/bash
+
 # This script backs up a folder and saves it with today's date
 SOURCE="$HOME/Documents"
 DEST="$HOME/backup_$(date +%Y-%m-%d).tar.gz"
@@ -152,7 +155,7 @@ The final module focused on collaboration, remote access, and version control �
 
 We learned to:
 
-- **Connect securely to remote systems using `ssh`**  
+- **Connect securely to remote systems using `ssh`**   
 	(e.g. `ssh user@remote-server`)  
 	→ Opens a secure terminal session on a remote machine  
 
@@ -161,11 +164,12 @@ We learned to:
 	→ Copies files securely over the network  
 
 - **Manage project versions using `git`**  
-	e.g.
-	```bash
+	e.g.  
 	git add .
-	git commit -m "Update report"
-	git push origin main
+	git commit -m "Update report"  
+	git push origin main  
+
+
 ---
 
 ## Summary of Core Commands
