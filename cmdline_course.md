@@ -7,9 +7,9 @@ permalink: /cmdline_course.html
 # Command-Line Course
 
 ## Introduction
-The command-line course introduces the fundamental tools and principles of UNIX-based systems. Throughout the course, you will learn how to work efficiently in a terminal environment, gaining essential skills for manipulating files, automating tasks, and processing text. The goal is to help you become comfortable working directly from the command line so that you can understand and control the inner workings of your system.
+The command-line course introduced the fundamental tools and principles of UNIX-based systems. Throughout the course, we learnt how to work efficiently in a terminal environment, gaining essential skills for manipulating files, automating tasks, and processing text. The goal is to become comfortable working directly from the command line so that we can understand and control the inner workings of the system.
 
-Over several weeks, you’ll progress from basic navigation and file operations to writing scripts, processing structured data, and using professional tools such as Git and SSH. Each module builds upon the previous one, helping you gradually develop confidence and fluency in using the command line for practical, real-world tasks.
+Over several weeks, we progressed from basic navigation and file operations to writing scripts, processing structured data, and using professional tools such as Git and SSH. Each module builds upon the previous one, helping to develop confidence and fluency in using the command line for practical, real-world tasks.
 
 ---
 
@@ -35,24 +35,24 @@ Once the environment was set up, we explored the basic UNIX commands that let us
 - Using `sudo` for administrator-level commands
 
 
-- **`cd`** – changes the current directory 
+- **`cd`** – changes the current directory  
 	(e.g., `cd Documents` moves into the "Documents" folder)
 - **`ls`** – lists the files and folders in the current directory
 - `ls -l` shows them in a detailed view (permissions, size, date, etc.)
 - **`pwd`** – prints the current working directory
-- **`cp`** – copies files or directories 
+- **`cp`** – copies files or directories  
 	(e.g., `cp file1.txt backup/`)
-- **`mv`** – moves or renames files 
+- **`mv`** – moves or renames files  
 	(e.g., `mv old.txt new.txt`)
 - **`rm`** – removes (deletes) files; with `-r`, it can delete folders recursively
-- **`mkdir`** – creates a new directory 
+- **`mkdir`** – creates a new directory  
 	(e.g., `mkdir new_folder`)
 - **`touch`** – creates an empty file or updates its modification time
 - **`cat`** – displays the contents of a file in the terminal
 - **`tail`** – shows the last lines of a file
-- **`echo`** – prints text or variables to the screen 
-	(e.g., `echo Hello World`)
-- **`sudo`** – runs a command with administrator (superuser) privileges.
+- **`echo`** – prints text or variables to the screen  
+	(e.g., `echo 'Hello World'`)
+- **`sudo`** – runs a command with administrator privileges.
 
 We also learned about the structure of the UNIX file system, including standard system directories and file permissions that protect user privacy.  
 At the end of the module, a short quiz helped reinforce these concepts and provided hands-on practice with the most common UNIX commands.

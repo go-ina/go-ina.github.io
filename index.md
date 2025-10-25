@@ -6,7 +6,7 @@ title: Content
 
 ## Introduction
 
-My name is Ina Goettling from Germany. I graduated at Goettingen University with a Dual Subject Bachelor in General Linguistics and English Studies with strong focus on phonetics. After desveral other stops, I have decided to begin my Master in Helsinki in Language Technology as aim to combine my previously acquired knowledge to furhter the development in speech recognition for a more inclusice society.
+My name is Ina Goettling from Germany. I graduated at Goettingen University with a Dual Subject Bachelor in General Linguistics and English Studies with strong focus on phonetics. After several other stops, I have decided to begin my Master in Helsinki in Language Technology as aim to combine my previously acquired knowledge to furhter the development in speech recognition for a more inclusice society.
 
 
 ## Find me
