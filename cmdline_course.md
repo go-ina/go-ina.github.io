@@ -91,7 +91,9 @@ We also learned how to combine these commands into **pipelines**, chaining them 
 
 ## Example pipeline:
 
+```
 grep "error" logfile.txt | cut -d' ' -f5 | sort | uniq -c | sort -n
+```
 
 
 ---
@@ -124,14 +126,17 @@ This week also introduced simple package installation and configuration manageme
 
 ## Example shell script:
 
-#!/bin/bash
+```
+!/bin/bash
+```
 
 # This script backs up a folder and saves it with today's date
-SOURCE="$HOME/Documents"
+```
+SOURCE="$HOME/Documents"  
 DEST="$HOME/backup_$(date +%Y-%m-%d).tar.gz"
-
 tar -czf "$DEST" "$SOURCE"
 echo "Backup created at $DEST"
+```
 
 
 
@@ -155,20 +160,21 @@ The final module focused on collaboration, remote access, and version control �
 
 We learned to:
 
-- **Connect securely to remote systems using `ssh`**   
-	(e.g. `ssh user@remote-server`)  
-	→ Opens a secure terminal session on a remote machine  
+- **Connect securely to remote systems using `ssh`**
+  (e.g. `ssh user@remote-server`)  
+  → Opens a secure terminal session on a remote machine
 
-- **Transfer files between machines with `scp`**  
-	(e.g. `scp file.txt user@remote-server:/home/user/`)  
-	→ Copies files securely over the network  
+- **Transfer files between machines with `scp`**
+  (e.g. `scp file.txt user@remote-server:/home/user/`)  
+  → Copies files securely over the network
 
-- **Manage project versions using `git`**  
-	e.g.  
-	git add .
-	git commit -m "Update report"  
-	git push origin main  
-
+- **Manage project versions using `git`**
+  e.g.
+  ```
+  git add .
+  git commit -m "Update report"
+  git push origin main
+  ```
 
 ---
 
