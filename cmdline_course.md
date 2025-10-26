@@ -130,7 +130,7 @@ This week also introduced simple package installation and configuration manageme
 !/bin/bash
 ```
 
-# This script backs up a folder and saves it with today's date
+## This script backs up a folder and saves it with today's date
 ```
 SOURCE="$HOME/Documents"  
 DEST="$HOME/backup_$(date +%Y-%m-%d).tar.gz"
