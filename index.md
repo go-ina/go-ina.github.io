@@ -27,6 +27,15 @@ My email address: ina.gottling@helsinki.fi.
 
 [Basic Level Finnish 1A](https://studies.helsinki.fi/courses/course-unit/otm-176bad08-f6e1-4dc9-a5d5-ac4e264a4519/SUO-111), autumn 2025 (period 1)
 
+[Computational Morphology](https://studies.helsinki.fi/courses/course-unit/otm-69560df8-4cc3-48e5-bde7-689e7dc74814)
+
+[Introduction to Signal Analysis](https://studies.helsinki.fi/courses/course-unit/otm-d17b3b72-2b24-41e0-a593-9fefbe967629)
+
+[Speech Analysis Methods](https://studies.helsinki.fi/courses/course-implementation/otm-2bd4f90c-b072-4b96-a51a-eae9a396a885/LDA-P302)
+
+[Programming for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/KIK-LG208)
+
+
 
 ## Studies
 
@@ -44,6 +53,8 @@ My email address: ina.gottling@helsinki.fi.
 ## Projects
 
 [Command Line Tools for Linguists](https://github.com/go-ina/cmdline-course)
+
+[Building Natural Language Applications]
 
 ## Misc
 
